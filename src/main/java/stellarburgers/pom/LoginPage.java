@@ -15,7 +15,7 @@ public class LoginPage {
 
     private final SelenideElement emailInput = $x(".//fieldset[1]//input");
 
-    private final SelenideElement passInput = $x(".//fieldset[2]//input");;
+    private final SelenideElement passInput = $x(".//fieldset[2]//input");
 
     private final SelenideElement enterButton = $(byClassName("button_button__33qZ0"));
 
